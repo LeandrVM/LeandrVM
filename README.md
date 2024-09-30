@@ -1,7 +1,8 @@
-## Hi there 👋
+![Banner LeandrVM](file:///C:/Users/Ilha%20Podcast/Pictures/Gif%20Git.gif)
 
 <!--
-**LeandrVM/LeandrVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeandrVM/LeandrVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![Gif Git](https://github.com/user-attachments/assets/7b656869-3c89-4662-8447-2ccabd3bb7f1)
+
 
 Here are some ideas to get you started:
 
