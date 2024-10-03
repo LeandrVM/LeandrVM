@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/LeandrVM"></a>
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=LeandrVM&theme=dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrVM&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrVM&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
